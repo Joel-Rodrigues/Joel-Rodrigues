@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 * [Blog] [http://joelrodrigues.net]
 
 ### *My projects*
-* soon
+* coming soon
