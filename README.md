@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Who am I?
+## *Who am I?*
 * 👨💻 Business Intelligence.
 * 👨💻 Data Engineer.
 * 👨💻 Data Scientist.
@@ -26,20 +26,16 @@ Here are some ideas to get you started:
 * 🎓 Postgraduate in Data WareHouse e Business Intelligence.
 * 🎓 Postgraduate in Data Science - Business intelligence, big data e analytics.
 
-* Skills 👨💻
+## *Skills 👨💻*
 * 🐍 Python.
 * 🗄 SQL.
 * 🧮 Power BI.
 * 🔮 Machine Learning.
 * 📊 Data Visualization
 
-* Find me around the world 🌎
-* Linkedin
-* Instagram
-* Blog
+## *Find me around the world 🌎*
+* [Linkedin] (https://www.linkedin.com/in/joelcrodrigues/)
+* [Blog] [http://joelrodrigues.net]
 
-* My projects
-* Churn Model
-* Data Visualization
-* WebScraping
-* TextMining
+## *My projects*
+* soon
