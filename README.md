@@ -15,28 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Who am I?
-👩‍💻 Business Intelligence.
-👩‍💻 Data Engineer.
-👩‍💻 Data Scientist.
-📊 Business consultant.
-📚 Researcher.
-👩‍🏫 Teacher.
-👩‍🎓 Bachelor of Computer Science.
-🎓 Postgraduate in Data WareHouse e Business Intelligence.
-🎓 Postgraduate in Data Science - Business intelligence, big data e analytics.
-Skills 👩‍💻
-🐍 Python.
-🗄 SQL.
-🧮 Power BI.
-🔮 Machine Learning.
-📊 Data Visualization
-Find me around the world 🌎
-Linkedin
-Instagram
-Blog
-My projects
-Churn Model
-Data Visualization
-WebScraping
-TextMining
+* Who am I?
+* 👨💻 Business Intelligence.
+* 👨💻 Data Engineer.
+* 👨💻 Data Scientist.
+* 📊 Business consultant.
+* 📚 Researcher.
+* 👨🏫 Teacher.
+* 👨🎓 Bachelor of Computer Science.
+* 🎓 Postgraduate in Data WareHouse e Business Intelligence.
+* 🎓 Postgraduate in Data Science - Business intelligence, big data e analytics.
+
+* Skills 👨💻
+* 🐍 Python.
+* 🗄 SQL.
+* 🧮 Power BI.
+* 🔮 Machine Learning.
+* 📊 Data Visualization
+
+* Find me around the world 🌎
+* Linkedin
+* Instagram
+* Blog
+
+* My projects
+* Churn Model
+* Data Visualization
+* WebScraping
+* TextMining
